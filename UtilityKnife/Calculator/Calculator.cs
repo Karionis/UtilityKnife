@@ -18,5 +18,9 @@
         {
             return x / y;
         }
+        public static double Division(double x, double y)
+        {
+            return x / y;
+        }
     }
 }
